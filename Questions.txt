@@ -1,0 +1,300 @@
+Question: A famous Egyptian queen known for her beauty.
+Hint: She was the wife of both Julius Caesar and Mark Antony.
+Answer: Cleopatra
+Question: The ancient city-state known for its military prowess and disciplined citizens.
+Hint: Home of the Spartans.
+Answer: Sparta
+Question: The ruler of the Mongol Empire and the largest contiguous empire in history.
+Hint: Known for his military conquests.
+Answer: Genghis Khan
+Question: The document that established the separation of powers and limited the monarchy's power in England.
+Hint: Signed in 1215.
+Answer: Magna Carta
+Question: The ancient Greek philosopher and teacher of Alexander the Great.
+Hint: He founded the Academy in Athens.
+Answer: Plato
+Question: The longest-reigning female pharaoh of Ancient Egypt.
+Hint: She is known for expanding Egypt's wealth and power.
+Answer: Hatshepsut
+Question: The event that marked the end of the medieval period and the beginning of the Renaissance in Europe.
+Hint: It occurred in the 14th century and involved widespread social and economic changes.
+Answer: Black Death
+Question: The famous speech by Martin Luther King Jr. advocating for civil rights.
+Hint: "I Have a ___."
+Answer: Dream
+Question: The leader of the Soviet Union during World War II.
+Hint: He formed a wartime alliance with the United States and the United Kingdom.
+Answer: Stalin
+Question: The naval battle in 480 BC where the Greeks defeated the Persians.
+Hint: It secured Greek independence and was a turning point in the Greco-Persian Wars.
+Answer: Salamis
+Question: The English queen known for her long and prosperous reign during the 16th century.
+Hint: The Elizabethan Era is named after her.
+Answer: Elizabeth I
+Question: The explorer who led the first expedition that resulted in the circumnavigation of the Earth.
+Hint: His crew completed the journey after his death.
+Answer: Magellan
+Question: The political and social movement that advocated for the rights of women.
+Hint: It gained momentum in the late 19th and early 20th centuries.
+Answer: Feminism
+Question: The ancient civilization known for its contributions to mathematics, astronomy, and literature.
+Hint: Home of the Hanging Gardens.
+Answer: Babylon
+Question: The battle during the American Civil War that marked a turning point in favor of the Union.
+Hint: It took place in July 1863.
+Answer: Gettysburg
+Question: The iconic leader of the Indian independence movement against British rule.
+Hint: His philosophy of nonviolent resistance inspired civil rights movements worldwide.
+Answer: Gandhi
+Question: The ancient Greek city-state considered the birthplace of democracy.
+Hint: It is also associated with the philosopher Socrates.
+Answer: Athens
+Question: The Allied invasion of Normandy during World War II.
+Hint: It occurred on June 6, 1944.
+Answer: D-Day
+Question: The treaty that officially ended World War I.
+Hint: It was signed in 1919 at the Palace of Versailles.
+Answer: Versailles
+Question: The Chinese philosopher and teacher whose teachings have greatly influenced East Asian culture.
+Hint: His analects are a collection of sayings and ideas.
+Answer: Confucius
+Question: The queen of ancient Carthage who fell in love with Aeneas in Roman mythology.
+Hint: Her tragic love story is told in Virgil's "Aeneid."
+Answer: Dido
+Question: The ancient Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic.
+Hint: His crossing of the Rubicon River marked the start of civil war.
+Answer: Caesar
+Question: The landmark Supreme Court case that established the principle of judicial review in the United States.
+Hint: It involves Marbury and Madison.
+Answer: Marbury
+Question: The ancient wonder of the world that was a monumental tomb for an Egyptian pharaoh.
+Hint: It is located near the Giza Pyramids.
+Answer: Sphinx
+Question: The war between the North and the South in the United States fought over issues such as slavery and states' rights.
+Hint: It took place from 1861 to 1865.
+Answer: Civil War
+Question: This element has the chemical symbol "O."
+Hint: Essential for respiration.
+Answer: Oxygen
+Question: The smallest unit of an element.
+Hint: Building block of matter.
+Answer: Atom
+Question: This force keeps planets in orbit around the sun.
+Hint: Newton's law of gravitation.
+Answer: Gravity
+Question: The process by which plants make their own food.
+Hint: It involves sunlight and chlorophyll.
+Answer: Photosynth
+Question: The outermost layer of the Earth.
+Hint: It includes the crust and upper mantle.
+Answer: Lithosphere
+Question: This gas makes up the majority of Earth's atmosphere.
+Hint: Vital for combustion.
+Answer: Nitrogen
+Question: The study of the Earth's past through fossils.
+Hint: Involves paleontologists.
+Answer: Paleontology
+Question: The process by which water changes from a liquid to a gas.
+Hint: Happens at the surface of water.
+Answer: Evaporation
+Question: This organ pumps blood throughout the body.
+Hint: It's a muscular organ.
+Answer: Heart
+Question: The SI unit for measuring temperature.
+Hint: Celsius and Fahrenheit are also used. 
+Answer: Kelvin
+Question: The branch of science that deals with the study of the universe.
+Hint: Involves galaxies, stars, and planets. 
+Answer: Astronomy
+Question: The SI unit for measuring electric current.
+Hint: Named after an Italian physicist. 
+Answer: Ampere
+Question: A measure of the acidity or basicity of a solution.
+Hint: Scale ranges from 0 to 14. 
+Answer: pH
+Question: This particle is found in the nucleus of an atom.
+Hint: It has a positive charge. 
+Answer: Proton
+Question: The study of heredity and the variation of inherited characteristics.
+Hint: Gregor Mendel is often called the father of this field. 
+Answer: Genetics
+Question: The process by which plants and some other organisms convert light energy into chemical energy.
+Hint: Takes place in chloroplasts. 
+Answer: Photosynth
+Question: The energy of motion.
+Hint: It's what makes things move. 
+Answer: Kinetic
+Question: The force that opposes the motion of one surface as it moves across another surface.
+Hint: It starts with "F" and is a common term for resistance. 
+Answer: Friction
+Question: This gas is essential for respiration in humans.
+Hint: It's produced during photosynthesis. 
+Answer: Oxygen
+Question: The process by which a substance changes from a gas or vapor to a liquid.
+Hint: The opposite of evaporation. 
+Answer: Condensation
+Question: The study of the origin, evolution, and eventual fate of the universe.
+Hint: Explores the Big Bang theory. 
+Answer: Cosmology
+Question: The unit of measurement for electric resistance.
+Hint: Ohm's law relates voltage, current, and this. 
+Answer: Ohm
+Question: The SI unit for measuring force.
+Hint: Named after a scientist known for his laws of motion. 
+Answer: Newton
+Question: The bending of light as it passes from one medium to another.
+Hint: It's what makes a pencil appear bent in a glass of water. 
+Answer: Refraction
+Question: The study of the structure and function of cells.
+Hint: Basic unit of life. 
+Answer: Celliology
+Question: This programming language is known for its simplicity and readability.
+Hint: Named after a British comedy group.
+Answer: Python
+Question: The heart of a computer system, where calculations and data manipulation occur.
+Hint: It's often referred to as the "brain" of the computer.
+Answer: Processor
+Question: A widely used version control system for tracking changes in source code during software development.
+Hint: Created by Linus Torvalds.
+Answer: Git
+Question: A data structure that follows the Last In, First Out (LIFO) principle.
+Hint: Think of a stack of plates.
+Answer: Stack
+Question: This algorithm sorts a list by comparing adjacent elements, and swapping them if they are in the wrong order.
+Hint: Named after a simple movement.
+Answer: BubbleSort
+Question: A widely used web development framework for creating dynamic web pages.
+Hint: Model-View-Controller (MVC) architecture.
+Answer: Django
+Question: A lightweight, open-source, cross-platform web server for serving static content.
+Hint: Named after the Native American tribe.
+Answer: Apache
+Question: An essential component of object-oriented programming that bundles data and methods that operate on the data.
+Hint: Think of it as a blueprint for objects.
+Answer: Class
+Question: A cryptographic protocol for secure communication over a computer network.
+Hint: It starts with an "S" and ensures data confidentiality.
+Answer: SSL
+Question: The process of converting source code written in a programming language to machine code.
+Hint: It's an essential step before running a program. 
+Answer: Compilation
+Question: A programming paradigm that treats computation as the evaluation of mathematical functions.
+Hint: Functions are first-class citizens. 
+Answer: Functional
+Question: A type of database management system that stores data in tables.
+Hint: SQL is often used to query this type of database. 
+Answer: Relational
+Question: A programming language designed for creating network-centric applications.
+Hint: It's often used for web development. 
+Answer: JavaScript
+Question: A type of attack where an attacker intercepts and alters communication between two parties.
+Hint: It starts with an "M" and is a type of cyber attack. 
+Answer: ManInTheMiddle
+Question: A programming language commonly used for statistical computing and data analysis.
+Hint: Named after the Bell Labs. 
+Answer: R
+Question: A protocol for email transmission.
+Hint: It's the reason you see "SMTP" in email settings. 
+Answer: SMTP
+Question: A fundamental data structure that stores elements in a way that allows for efficient insertion and removal.
+Hint: Think of a line in a grocery store. 
+Answer: Queue
+Question: A security mechanism that enforces a set of access controls for resources on a computer system.
+Hint: It starts with an "A" and limits users' privileges. 
+Answer: Authentication
+Question: A method of programming that designs software systems by decomposing them into smaller, manageable pieces.
+Hint: It promotes modular design. 
+Answer: Modularization
+Question: A widely used version of the Linux operating system.
+Hint: Named after a South African mammal. 
+Answer: Ubuntu
+Question: An algorithm for searching or sorting that divides a problem into smaller subproblems.
+Hint: It's named after a conqueror. 
+Answer: Divide & Conquer
+Question: A programming language developed by Apple for iOS and macOS app development.
+Hint: It starts with an "S" and has a fruity name. 
+Answer: Swift
+Question: A protocol used for secure communication over a computer network.
+Hint: It's an upgrade from HTTP. 
+Answer: HTTPS
+Question: A type of attack where an attacker attempts to flood a network or website with traffic to make it unavailable.
+Hint: It's a digital traffic jam. 
+Answer: DDoS
+Question: A design pattern that restricts the instantiation of a class to one single instance and provides a global point of access to it.
+Hint: It starts with an "S" and ensures a class has only one instance. 
+Answer: Singleton
+Question: This is the powerhouse of the cell.
+Hint: Where ATP is produced.
+Answer: Mitochondr
+Question: The body's largest organ.
+Hint: Protects against the external environment.
+Answer: Skin
+Question: The fluid that transports oxygen and nutrients throughout the body.
+Hint: It's red and flows in veins.
+Answer: Blood
+Question: The process by which organisms exchange gases with their environment.
+Hint: Breathing in and out.
+Answer: Respiration
+Question: The body's primary control center.
+Hint: It regulates various physiological functions.
+Answer: Brain
+Question: The hard outer layer of bones.
+Hint: Provides structure and protection.
+Answer: Skeletal
+Question: The body's main chemical messenger system.
+Hint: Involves glands and hormones.
+Answer: Endocrine
+Question: The smallest unit of life.
+Hint: Building block of living organisms.
+Answer: Cell
+Question: The process by which organisms grow and develop.
+Hint: From infancy to adulthood.
+Answer: Growth
+Question: The system responsible for filtering and eliminating waste from the body.
+Hint: Includes kidneys and bladder. 
+Answer: Excretory
+Question: The body's natural defense system.
+Hint: Fights off infections and diseases. 
+Answer: Immune
+Question: The body's ability to maintain stability and balance.
+Hint: Involves feedback mechanisms. 
+Answer: Homeostas
+Question: The joint that connects the forearm to the upper arm.
+Hint: Allows for bending and straightening. 
+Answer: Elbow
+Question: The body's central processing unit for emotions and memory.
+Hint: Linked to the olfactory sense. 
+Answer: Amygdala
+Question: The process by which food is broken down in the digestive system.
+Hint: Involves enzymes and acids. 
+Answer: Digestion
+Question: The organ responsible for producing insulin.
+Hint: Regulates blood sugar levels. 
+Answer: Pancreas
+Question: The body's communication network.
+Hint: Nerves and electrical signals. 
+Answer: Nervous
+Question: The fluid-filled sac that cushions and protects joints.
+Hint: Found in knees and elbows. 
+Answer: Bursa
+Question: The system that supports movement and provides shape.
+Hint: Includes muscles and bones. 
+Answer: Muscular
+Question: The process by which genetic information is passed from parent to offspring.
+Hint: Involves DNA and reproduction. 
+Answer: Heredity
+Question: The outer protective layer of the eye.
+Hint: Covers and protects the iris. 
+Answer: Cornea
+Question: The organ responsible for filtering toxins from the blood.
+Hint: Detoxification and metabolism. 
+Answer: Liver
+Question: The fluid that lubricates joints.
+Hint: Reduces friction in movement. 
+Answer: Synovial
+Question: The process of converting food into energy.
+Hint: Occurs in the mitochondria. 
+Answer: Metabolism
+Question: The system that transports nutrients and oxygen to cells.
+Hint: Composed of the heart and blood vessels. 
+Answer: Circulation
