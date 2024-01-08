@@ -1,14 +1,17 @@
 # QuizMania
-A CLI-based unique and engaging quiz game that combines the classic word game of Hangman with challenging trivia questions. Playing this game allows you to have fun while testing your knowledge and skills in various topics.
-<p align="center">
-  <img src="https://github.com/AbdulRafayMughal86/QuizMania/blob/main/Pic/GamePlay.png">
-</p>
 
 # Table of Contents
+- [Description](#description)
 - [Objective](#objective)
 - [Features](#features)
 - [How To Play](#how-to-play)
 - [Contributors](#contributors)
+  
+## Description
+Introducing a CLI-based quiz game that offers a unique and engaging experience by combining the classic word game of Hangman with challenging trivia questions. The game provides an entertaining way to test your knowledge and skills in various topics. Developed in C-language with built-in Libraries and Windows.h Library for cursor movements. **It is exclusively playable on Windows OS**.
+<p align="center">
+  <img src="https://github.com/AbdulRafayMughal86/QuizMania/blob/main/Pic/GamePlay.png">
+</p>
                     
 ## Objective
 To enhance the learning experience by incorporating a hangman game in a quiz app that stimulates the learner's dopamine levels and motivation while acquiring new knowledge
@@ -17,6 +20,7 @@ To enhance the learning experience by incorporating a hangman game in a quiz app
 ## Features
 - Difficulty Levels
 - Variety Of Topics
+- Simple UI
 - Hints
 
 
