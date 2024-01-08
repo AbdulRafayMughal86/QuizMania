@@ -1,7 +1,7 @@
 # QuizMania
 A CLI-based unique and engaging quiz game that combines the classic word game of Hangman with challenging trivia questions. Playing this game allows you to have fun while testing your knowledge and skills in various topics.
 <p align="center">
-  <img src="https://github.com/AbdulRafayMughal86/QuizMania/Pic/GamePlay.png">
+  <img src="https://github.com/AbdulRafayMughal86/QuizMania/blob/main/Pic/GamePlay.png">
 </p>
 
 # Table of Contents
